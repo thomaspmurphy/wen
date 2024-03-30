@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 regex = "1.10.4"
+rust-stemmers = "1.2.0"
+serde = "1.0.197"
